@@ -1,0 +1,2 @@
+# SkillMatch Ai Optimizer
+In today’s competitive job market, job seekers often struggle to tailor their resumes effectively for diverse job descriptions. Most applicants use generic resumes that fail to meet the specific requirements listed in job postings. This misalignment leads to reduced chances of selection by Applicant Tracking Systems (ATS) and recruiters, causing frustration and lost opportunities for capable candidates.
